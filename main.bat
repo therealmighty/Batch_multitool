@@ -1,5 +1,5 @@
 @echo off
-title Multitool - Created by Mighty
+title Multitool - Created by Mighty, helped by Xtremiteaze.
 chcp 65001 >nul
 cd files
 color 5
